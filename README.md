@@ -76,9 +76,9 @@ I enjoy turning ideas into clean, reliable products with strong backend foundati
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Portfolio: [Add your portfolio link](https://your-portfolio-link.com)
+- LinkedIn: [www.linkedin.com/in/ivestan21714]
+- Email: (tanives157@gmail.com)
+- Blog/About Me: (https://blog-twly.vercel.app)
 
 ---
 
