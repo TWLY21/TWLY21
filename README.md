@@ -1,15 +1,10 @@
-﻿<!--
-This file must be in a PUBLIC repository named exactly: TWLY21
-GitHub will render it as your profile README.
--->
-
-# Ello~!, I'm Ives!
+# Ello~!, I'm Ives!  ૮₍´｡ᵔ ꈊ ᵔ｡`₎ა
 
 Software Engineering student building practical full-stack systems with clean architecture, reliable APIs, and polished UI.
 
 ---
 
-## About Me
+## About Me ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 - Software Engineering student
 - Aspiring full-stack developer
@@ -18,7 +13,7 @@ Software Engineering student building practical full-stack systems with clean ar
 
 ---
 
-## Tech Stack
+## Tech Stack 🌱 
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -49,7 +44,7 @@ Software Engineering student building practical full-stack systems with clean ar
 
 ---
 
-## Current Focus
+## Current Focus (っ- ‸ - ς)
 
 - Building SaaS-style full-stack projects
 - Improving backend architecture and API reliability
@@ -58,7 +53,7 @@ Software Engineering student building practical full-stack systems with clean ar
 
 ---
 
-## Featured Projects
+## Featured Projects ( ߬⚈ o⚈ꪷ)
 
 - **[Real-Time Booking and Notification System](https://github.com/TWLY21/Real-Time-Booking-Notification-System)**  
   React + Node.js + PostgreSQL platform with JWT auth, Redis Pub/Sub, and live Socket.IO updates.
@@ -88,7 +83,7 @@ Software Engineering student building practical full-stack systems with clean ar
 
 ---
 
-## Contact
+## Contact 🐶
 
 - LinkedIn: [ivestan21714](https://www.linkedin.com/in/ivestan21714)
 - Email: [tanives157@gmail.com](mailto:tanives157@gmail.com)
