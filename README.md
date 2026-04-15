@@ -3,7 +3,7 @@ This file must be in a PUBLIC repository named exactly: TWLY21
 GitHub will render it as your profile README.
 -->
 
-# Hi, I'm Ives Tan Kian Hang
+# Ello~!, I'm Ives!
 
 Software Engineering student building practical full-stack systems with clean architecture, reliable APIs, and polished UI.
 
