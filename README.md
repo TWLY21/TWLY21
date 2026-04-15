@@ -1,4 +1,4 @@
-# Ello~!, I'm Ives!  ૮₍´｡ᵔ ꈊ ᵔ｡`₎ა
+# Hello~!, I'm Ives!  ૮₍´｡ᵔ ꈊ ᵔ｡`₎ა
 
 Software Engineering student building practical full-stack systems with clean architecture, reliable APIs, and polished UI.
 
@@ -53,7 +53,7 @@ Software Engineering student building practical full-stack systems with clean ar
 
 ---
 
-## Featured Projects ( ߬⚈ o⚈ꪷ)
+## Featured Projects 
 
 - **[Real-Time Booking and Notification System](https://github.com/TWLY21/Real-Time-Booking-Notification-System)**  
   React + Node.js + PostgreSQL platform with JWT auth, Redis Pub/Sub, and live Socket.IO updates.
@@ -83,7 +83,7 @@ Software Engineering student building practical full-stack systems with clean ar
 
 ---
 
-## Contact 🐶
+## Contact 
 
 - LinkedIn: [ivestan21714](https://www.linkedin.com/in/ivestan21714)
 - Email: [tanives157@gmail.com](mailto:tanives157@gmail.com)
