@@ -76,9 +76,9 @@ I enjoy turning ideas into clean, reliable products with strong backend foundati
 
 ## Contact
 
-- LinkedIn: [www.linkedin.com/in/ivestan21714]
-- Email: (tanives157@gmail.com)
-- Blog/About Me: (https://blog-twly.vercel.app)
+- LinkedIn: www.linkedin.com/in/ivestan21714
+- Email: tanives157@gmail.com
+- Blog/About Me: https://blog-twly.vercel.app
 
 ---
 
