@@ -53,22 +53,6 @@ Software Engineering student building practical full-stack systems with clean ar
 
 ---
 
-## Featured Projects 
-
-- **[Real-Time Booking and Notification System](https://github.com/TWLY21/Real-Time-Booking-Notification-System)**  
-  React + Node.js + PostgreSQL platform with JWT auth, Redis Pub/Sub, and live Socket.IO updates.
-
-- **[Dev Toolbox](https://github.com/TWLY21/Dev-Toolbox)**  
-  Modular developer utility suite with responsive UI and practical productivity tools.
-
-- **[Notification System API](https://github.com/TWLY21/Notification-System-API)**  
-  Production-style Express API with role-based access control and notification workflows.
-
-- **[Blog TWLY](https://github.com/TWLY21/Blog-TWLY)**  
-  Portfolio + blog platform using Next.js App Router and Markdown content architecture.
-
----
-
 ## GitHub Snapshot
 
 <p align="center">
