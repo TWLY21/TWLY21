@@ -76,13 +76,15 @@ Software Engineering student building practical full-stack systems with clean ar
 
 ## GitHub Snapshot
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/github/followers/TWLY21?style=for-the-badge&logo=github&label=Followers" />
   <img src="https://img.shields.io/github/stars/TWLY21?style=for-the-badge&logo=github&label=Total%20Stars" />
-  <img src="https://img.shields.io/github/last-commit/TWLY21/Real-Time-Booking-Notification-System?style=for-the-badge&logo=git&label=Latest%20Project%20Update" />
+  <img src="https://img.shields.io/github/last-commit/TWLY21/Dev-Toolbox?style=for-the-badge&logo=git&label=Latest%20Public%20Repo%20Update" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TWLY21&hide_border=true&theme=github-dark-blue)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TWLY21&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
 
 ---
 
