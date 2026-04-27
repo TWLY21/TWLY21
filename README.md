@@ -1,4 +1,4 @@
-# Hello~!, I'm Ives!  ૮₍´｡ᵔ ꈊ ᵔ｡`₎ა
+# Hello~!, I'm Ives! 
 
 Software Engineering student building practical full-stack systems with clean architecture, reliable APIs, and polished UI.
 
